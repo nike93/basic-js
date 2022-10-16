@@ -64,8 +64,6 @@ function getDNSStats(domains) {
     return result;
   }
 }
-}
-
 module.exports = {
   getDNSStats
 };
